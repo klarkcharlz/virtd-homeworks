@@ -1,3 +1,4 @@
 .vagrant
 secrets.pkrvars.hcl
 secrets.json
+.idea/
