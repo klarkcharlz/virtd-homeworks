@@ -93,10 +93,7 @@ https://hub.docker.com/repository/docker/klarkcharlz/custom-nginx/general
 ### ОТВЕТ:
 ![12.centos.png](12.centos.png)
 ![13.debian.png](13.debian.png)
-
-Я не смог подключиться ни к одному из контейнеров, после запуска, даже без флага -d, они сразу останавливаются. Наверное это связано с тем что там не запущено никаких процессов.
-
-![14.exited.png](14.exited.png)
+![20.volume.png](20.volume.png)
 
 ## Задача 5
 
